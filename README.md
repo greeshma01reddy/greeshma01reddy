@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Greeshma! 👋
 
-<!--
-**greeshma01reddy/greeshma01reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Bioinformatics Graduate Student
+I bridge the gap between wetlab biotechnology and high performance computational pipelines. I specialize in building reproducible workflows, biological data engineering, and structural bioinformatics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tooling
+* **Languages:** Python, R, Bash, SQL (PostgreSQL)
+* **Pipeline Frameworks:** Nextflow, DSL2
+* **Bioinformatics Tools:** FastQC, MultiQC, DESeq2
+* **Environments:** Linux/Ubuntu, WSL2, High Performance Computing (HPC) Clusters
+
+## 🧪 Key Domains of Interest
+* **Structural Bioinformatics & Molecular Modeling:** Protein refinement, structural dynamics, and RNA motif analysis.
+* **Data Engineering & Multi Omics:** Constructing relational databases for genomic variants and integrating differential expression data.
+* **Machine Learning in Healthcare:** Designing predictive pipelines for clinical utility and translation.
+
+---
+
+📬 **How to reach me:** [reddygreeshma89@gmail.com] 
